@@ -1,0 +1,7 @@
+{
+  "name": "MediCare",
+  "description": "Comprehensive medical store & pharmacy platform with customer ordering, prescription verification, inventory, and staff dashboards",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
